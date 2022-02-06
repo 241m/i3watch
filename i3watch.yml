@@ -1,0 +1,4 @@
+events:
+  workspace:
+    - cmd: 'true'
+    - dir: sample
